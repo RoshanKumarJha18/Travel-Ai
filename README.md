@@ -75,3 +75,40 @@ It helps guests check-in, order room service, explore tourist spots, and get hot
    ```bash
    git clone https://github.com/roshankumarjha18/Travel-Ai.git
    cd Travel-Ai
+
+   
+🗣️ Usage Guide
+Try saying things like:
+
+“I want to check in”
+
+“Can I get an extra towel?”
+
+“What’s for breakfast?”
+
+“Suggest a good place nearby”
+
+“How do I reach the museum?”
+
+🖼️ Screenshots
+Home	AI Assistant	Travai Guide
+(Add screenshots in assets/home.png etc.)		
+
+📌 Future Plans
+🔄 Add flight delay handling logic (like Flight-Delay Liaison)
+
+🌐 Multi-language support
+
+📊 Admin panel for guest interactions analytics
+
+👨‍💻 Team Members
+Roshan Kumar Jha – Frontend Developer
+
+Purushotham Prajapati – Voice and Chat Assistant Integration
+
+Shaun Angel – Deployment & Project Management
+
+📜 License
+This project is licensed under the MIT License.
+
+<p align="center"> Made with 💚 for the Hackathon by <b>XsparkCoders</b> <br/> 💡 Innovation meets Conversation. </p> ```
