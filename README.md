@@ -75,40 +75,61 @@ It helps guests check-in, order room service, explore tourist spots, and get hot
    ```bash
    git clone https://github.com/roshankumarjha18/Travel-Ai.git
    cd Travel-Ai
+   ```
 
-   
-🗣️ Usage Guide
+2. **Add Your OmniDimension Key**
+   In `index.html`, replace with your own:
+   ```html
+   <script id="omnidimension-web-widget" async src="https://backend.omnidim.io/web_widget.js?secret_key=YOUR_SECRET_KEY"></script>
+   ```
+
+3. **Run Locally**
+   - Open `index.html` in any browser
+
+---
+
+## 🗣️ Usage Guide
+
 Try saying things like:
+- “I want to check in”
+- “Can I get an extra towel?”
+- “What’s for breakfast?”
+- “Suggest a good place nearby”
+- “How do I reach the museum?”
 
-“I want to check in”
+---
 
-“Can I get an extra towel?”
+## 🖼️ Screenshots
 
-“What’s for breakfast?”
+| Home | AI Assistant | Travai Guide |
+|------|--------------|--------------|
+| *(Add screenshots in assets/home.png etc.)* |
 
-“Suggest a good place nearby”
+---
 
-“How do I reach the museum?”
+## 📌 Future Plans
 
-🖼️ Screenshots
-Home	AI Assistant	Travai Guide
-(Add screenshots in assets/home.png etc.)		
+- 🔄 Add flight delay handling logic (like **Flight-Delay Liaison**)
+- 🌐 Multi-language support
+- 📊 Admin panel for guest interactions analytics
 
-📌 Future Plans
-🔄 Add flight delay handling logic (like Flight-Delay Liaison)
+---
 
-🌐 Multi-language support
+## 👨‍💻 Team Members
 
-📊 Admin panel for guest interactions analytics
+- **Roshan Kumar Jha** – Frontend Developer  
+- **Purushotham Prajapati** – Voice and Chat Assistant Integration  
+- **Shaun Angel** – Deployment & Project Management  
 
-👨‍💻 Team Members
-Roshan Kumar Jha – Frontend Developer
+---
 
-Purushotham Prajapati – Voice and Chat Assistant Integration
+## 📜 License
 
-Shaun Angel – Deployment & Project Management
+This project is licensed under the [MIT License](LICENSE).
 
-📜 License
-This project is licensed under the MIT License.
+---
 
-<p align="center"> Made with 💚 for the Hackathon by <b>XsparkCoders</b> <br/> 💡 Innovation meets Conversation. </p> ```
+<p align="center">
+  Made with 💚 for the Hackathon by <b>XsparkCoders</b> <br/>
+  💡 Innovation meets Conversation.
+</p>
