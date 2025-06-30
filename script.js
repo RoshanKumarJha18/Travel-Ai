@@ -69,6 +69,53 @@ gsap.to("#page3 img",{
     
 })
 
+ 
+
+function Ai() {
+  window.addEventListener('load', function () {
+    const btn = document.getElementById("aibtn");
+    if (btn) {
+      btn.addEventListener("click", function () {
+        if (window.botpress) {
+          window.botpress.toggle(true); 
+        } else {
+          console.error("Botpress not loaded yet!");
+        }
+      });
+    }
+  });
+
+  window.botpress.on("webchat:ready", () => {
+
+  });
+  window.botpress.init({
+    "botId": "0cefe9fa-4ac2-4c4f-bbf5-fb4c1eabe1fc",
+    "configuration": {
+      "composerPlaceholder": "Ask anything.",
+      "botName": "TravAI",
+      "botAvatar": "https://files.bpcontent.cloud/2025/04/25/09/20250425094543-T1F8KAUC.png",
+      "botDescription": "TravAI - your Travel Ally",
+      "website": {},
+      "email": {},
+      "phone": {},
+      "termsOfService": {},
+      "privacyPolicy": {},
+      "color": "#ffffff",
+      "variant": "solid",
+      "themeMode": "dark",
+      "fontFamily": "rubik",
+      "radius": 1,
+      "additionalStylesheetUrl": "https://files.bpcontent.cloud/2025/04/25/10/20250425103316-6WHN0EX8.css",
+      "allowFileUpload": true,
+      "storageLocation": "localStorage"
+    },
+    "clientId": "a85b9567-bd0d-4885-aac3-45dca7e4c659",
+    "selector": "#webchat"
+  });
+}
+Ai()
+
+
  gsap.to(".ri-arrow-down-line,.scrl p", {
     y: 10,
     duration: 1,
@@ -132,7 +179,3 @@ const formContainer = document.getElementById('uploadFormContainer');
         count.textContent = parseInt(count.textContent) + 1;
       }
     });
-
-    
-    
-    
