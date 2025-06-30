@@ -38,7 +38,7 @@ This project integrates:
 
 ## 🚀 Live Preview
 
-🌐 **Website Demo**: [Coming Soon](#)  
+🌐 **Website Demo**: [Coming Soon](https://roshankumarjha18.github.io/Travel-Ai/)  
 🎥 **Video Walkthrough**: [Link](#)
 
 ---
