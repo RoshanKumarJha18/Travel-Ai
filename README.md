@@ -103,7 +103,7 @@ Try saying things like:
 
 | Home Page | AI Assistant | Travai Guide |
 |-----------|--------------|--------------|
-| ![](Assets/home.png) | ![](Assests/ai.png) | ![](Assests/travai.png) |
+| ![](Assests/home.png) | ![](Assests/ai.png) | ![](Assests/travai.png) |
 
 
 ---
