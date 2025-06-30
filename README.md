@@ -110,7 +110,6 @@ Try saying things like:
 ## 📌 Future Plans
 
 - 🔄 Add flight delay handling logic (like **Flight-Delay Liaison**)
-- 🌐 Multi-language support
 - 📊 Admin panel for guest interactions analytics
 
 ---
