@@ -9,37 +9,52 @@
 
 ---
 
+## ✅ Problem Statement
+
+**Track: Hospitality & Travel**  
+Reimagine hotel and travel experiences with AI-powered voice interactions. Our submission touches all key ideas of the theme:
+
+1. **Room-Service Ranger**: Voice-powered ordering of food, towels, and requests like late check-out.  
+2. **Local Explorer**: Guests ask for sightseeing, dining, and personalized recommendations synced to Travai logic.  
+3. **Creative Add-On**: Combines both hotel & travel voice agents into one seamless assistant — no app, no buttons, just pure conversation.
+
+🔗 [Live Project Demo](https://roshankumarjha18.github.io/Travel-Ai/)
+
+---
+
 ## ✨ Project Overview
 
-Welcome to **XsparkCoders**, an all-in-one digital hospitality experience!  
-This project integrates:
+**XsparkCoders** is an AI-first, voice-enabled hospitality platform combining:
+- A smart **AI Hotel Assistant** (powered by OmniDimension)
+- A personalized **Travel Guide** (Travai)
 
-- 🔊 **AI Voice Hotel Assistant** powered by [OmniDimension](https://www.omnidim.io)
-- 🌍 **Travai Travel Assistant** for personalized tourism help
-- 🏨 A seamless interface to **enhance guest comfort**, from room service to local exploration.
+It helps guests check-in, order room service, explore tourist spots, and get hotel help — all by **just talking**.
 
 ---
 
 ## 🎯 Key Features
 
 ### 🏨 AI Hotel Voice Assistant
-- Natural conversation with guests (Check-in, Room Service, Pool Timings, Food Orders)
-- Smart info retrieval (Location, Events, Hotel Services)
+- Conversational check-in, service requests, food ordering
+- Details on hotel events, pool timing, restaurant menus, etc.
 
 ### ✈️ Travai Integration
-- Travel suggestions based on guest interests
-- Voice-guided exploration for nearby attractions, transport, and safety
+- Personalized suggestions for places to visit, eat, and shop
+- Voice-powered city guides synced with maps and plans
 
-### 📱 Fully Responsive Interface
-- Beautiful modern UI
-- Fast, lightweight, and accessible
+### ⚡ Combined Agent Experience
+- One web app. Two AI agents (Hotel + Travai) working together.
+
+### 📱 Responsive & Elegant UI
+- Clean layout
+- Mobile-first design using GSAP and Shery.js animations
 
 ---
 
-## 🚀 Live Preview
+## 🚀 Live Demo
 
-🌐 **Website Demo**: [Link](https://roshankumarjha18.github.io/Travel-Ai/)  
-🎥 **Video Walkthrough**: [Link](#)
+🔗 [Click here to open the website](https://roshankumarjha18.github.io/Travel-Ai/)  
+🎥 Video Walkthrough: *Coming soon*
 
 ---
 
@@ -47,11 +62,16 @@ This project integrates:
 
 | Tool | Purpose |
 |------|---------|
-| 🔷 **HTML/CSS/JS/GSAB/SheryJS** | Frontend Development |
-| 🟢 **OmniDimension SDK** | Voice Assistant Integration |
-| 🔶 **Custom Knowledge Base** | AI Personality & Responses |
-| 🧭 **Travai Logic** | Travel Queries & Voice Answers |
+| 🔷 **HTML, CSS, JavaScript, GSAP, SheryJS** | Frontend design & animation |
+| 🟢 **OmniDimension SDK** | Voice AI Assistant integration |
+| 🧭 **Travai Logic** | Travel Guide personality |
+| 📁 **Custom Knowledge Base** | Personalized hotel info & responses |
 
 ---
 
+## 🛠️ Setup Instructions
 
+1. **Clone the Repository**
+   ```bash
+   git clone https://github.com/roshankumarjha18/Travel-Ai.git
+   cd Travel-Ai
