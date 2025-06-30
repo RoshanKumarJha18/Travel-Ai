@@ -1072,4 +1072,10 @@ a{
 }
   
 }
+#chat-helper-button img{
+  border-radius: 10vh;
 
+}
+.rounded-full{
+  background-color: #5fd35f;
+}
