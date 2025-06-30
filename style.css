@@ -58,7 +58,7 @@ html,body{
     height: 100%;
     width: 100%;
     position: fixed;
-    z-index: 999999999999;
+    z-index: 99999999999999999999999;
     background-color: #000000;
     padding: 25vh 10vw;
     
@@ -1078,7 +1078,7 @@ a{
 }
 #chat-helper-button-container{
   position: fixed; 
-  z-index: 9999999999999999 !important; 
+  z-index: 99999999 !important; 
   right: 20px; 
   bottom: 20px;
 }
