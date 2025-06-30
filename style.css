@@ -204,6 +204,63 @@ a{
 }
 
 
+
+#webchat .bpWebchat {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 75vw;
+  height: 80vh;
+  max-height: 100%;
+  max-width: 100%;
+}
+
+#webchat .bpFab{
+  display: none;
+}
+
+
+.bpReset.bpHeaderContainer.bpFont {
+  background: linear-gradient(rgb(34, 226, 240), #10101e);
+  color: white;
+}
+button:hover,
+.bpButton:hover {
+  background-color: transparent !important;
+}
+
+.bpHeaderContentTitle,
+.bpHeaderContentDescription {
+  color: white;
+}
+
+.bpContainer {
+  border-radius: 2vh;
+}
+
+.bpComposerContainer {
+  border: 1px solid #82d9d7;
+  border-radius: 2vh;
+}
+
+.bpMessageListContainer {
+  background-image: radial-gradient(
+      at 60% 40%,
+      rgba(0, 0, 0, 0.95) 0px,
+      rgba(0, 0, 0, 0.85) 50%
+    ),
+    radial-gradient(at 50% 80%, rgba(0, 0, 255, 0.5) 0px, transparent 50%),
+    radial-gradient(at 70% 30%, rgba(0, 51, 102, 0.6) 0px, transparent 50%),
+    radial-gradient(at 20% 60%, rgb(60, 66, 5) 0px, transparent 50%),
+    radial-gradient(at 80% 10%, rgba(0, 102, 204, 0.4) 0px, transparent 50%),
+    radial-gradient(at 40% 50%, rgba(0, 153, 255, 0.4) 0px, transparent 50%),
+    radial-gradient(at 60% 20%, rgba(0, 76, 153, 0.5) 0px, transparent 50%);
+  background-color: rgb(126, 132, 185);
+}
+
+
+
 .aibtn{
   backdrop-filter: blur(4px);
 }
