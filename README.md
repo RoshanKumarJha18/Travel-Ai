@@ -11,7 +11,7 @@
 
 ## ✨ Project Overview
 
-Welcome to **XsparkCoders**, an all-in-one digital hospitality experience!  
+Welcome to **TravAi**, an all-in-one digital hospitality experience!  
 This project integrates:
 
 - 🔊 **AI Voice Hotel Assistant** powered by [OmniDimension](https://www.omnidim.io)
