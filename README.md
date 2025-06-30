@@ -47,7 +47,7 @@ This project integrates:
 
 | Tool | Purpose |
 |------|---------|
-| 🔷 **HTML/CSS/JS** | Frontend Development |
+| 🔷 **HTML/CSS/JS/GSAB/SheryJS** | Frontend Development |
 | 🟢 **OmniDimension SDK** | Voice Assistant Integration |
 | 🔶 **Custom Knowledge Base** | AI Personality & Responses |
 | 🧭 **Travai Logic** | Travel Queries & Voice Answers |
