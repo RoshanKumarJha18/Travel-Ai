@@ -1076,6 +1076,9 @@ a{
   border-radius: 10vh;
 
 }
-.rounded-full{
-  background-color: #5fd35f;
+#chat-helper-button-container{
+  position: fixed; 
+  z-index: 9999999999999999 !important; 
+  right: 20px; 
+  bottom: 20px;
 }
