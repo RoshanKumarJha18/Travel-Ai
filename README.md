@@ -99,11 +99,12 @@ Try saying things like:
 
 ---
 
-## 🖼️ Screenshots
+## 📸 Screenshots
 
-| Home | AI Assistant | Travai Guide |
-|------|--------------|--------------|
-| *(Add screenshots in assets/home.png etc.)* |
+| Home Page | AI Assistant | Travai Guide |
+|-----------|--------------|--------------|
+| ![](assets/home.png) | ![](assets/ai.png) | ![](assets/travai.png) |
+
 
 ---
 
